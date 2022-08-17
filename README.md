@@ -24,3 +24,10 @@ y devuelva el mayor de ellos.
 1. Definir una función generar_n_caracteres() que tome un entero n y devuelva el caracter multiplicado por n. Por ejemplo: generar_n_caracteres(5, "x") debería devolver "xxxxx".
 
 1. Definir un histograma procedimiento() que tome una lista de números enteros e imprima un histograma en la pantalla. Ejemplo: procedimiento([4, 9, 7]) debería imprimir lo siguiente:
+
+
+Gracias a quien genero este repositorio originalmente
+https://github.com/pensar-coding/ejercicios_yt
+Gracias a quien hizo la tarea de divulgador
+https://github.com/codin-eric
+
